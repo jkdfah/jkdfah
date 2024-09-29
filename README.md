@@ -1,5 +1,5 @@
-#1 about me
-
+## Hi there 👋
+## about me
 <!--
 **jkdfah/jkdfah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 My name is rico glover and my email address is rdgjr2005@gmail.com
