@@ -1,5 +1,8 @@
-## Hi there 👋
-## about me
+# About ME
+## My interests
+Some of my interests are listening to music, playing video games, and learning more about technology
+## Websites i recommend
+Youtube.com
 <!--
 **jkdfah/jkdfah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 My name is rico glover and my email address is rdgjr2005@gmail.com
