@@ -24,7 +24,7 @@ CompareGuess -->|Too Low| TooLow[Display "Too Low"]
 TooHigh --> GetUserInput
 TooLow --> GetUserInput
 CorrectGuess --> End([End])
-#Description
+# Description
 Start: The game begins, and a random number is generated.
 Generate Random Number: The computer picks a random number within a specific range.
 Get User Input: The user is prompted to input their guess.
